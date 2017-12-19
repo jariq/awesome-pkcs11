@@ -19,6 +19,7 @@ Contributions are welcome and carefully reviewed. Please read the [contribution 
 
 ### Applications
 
+* :sunglasses: [Mozilla Firefox](https://www.mozilla.org/firefox/) - Web browser that uses PKCS#11 API to access client SSL certificates.
 * :sunglasses: [Pkcs11Admin](https://github.com/Pkcs11Admin/Pkcs11Admin) - GUI tool for administration of PKCS#11 enabled devices.
 * :sunglasses: [XCA](https://sourceforge.net/projects/xca/) - Simple certificate authority with support for PKCS#11 devices.
   
